@@ -1,0 +1,23 @@
+{
+  "name": "nubank-fatura-separada-cartoes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubensflinco/nubank-fatura-separada-cartoes.git"
+  },
+  "author": "Rubens Flinco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubensflinco/nubank-fatura-separada-cartoes/issues"
+  },
+  "homepage": "https://github.com/rubensflinco/nubank-fatura-separada-cartoes#readme",
+  "dependencies": {
+    "nubank-api": "^3.0.0",
+    "uuid": "^9.0.0"
+  }
+}
